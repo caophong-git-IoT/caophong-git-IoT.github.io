@@ -1,64 +1,64 @@
 ---
-layout: archive
-title: "CV"
+layout: single
+title: "Curriculum Vitae"
 permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
 ---
 
-{% include base_path %}
+## 👤 Thông tin cá nhân
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+- **Họ tên:** Cao Phong  
+- **Email:** caophong2025@gmail.com  
+- **GitHub:** https://github.com/caophong-git-IoT  
+- **Định hướng:** Backend Developer / IoT / DevOps  
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+---
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## 🎓 Học vấn
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- **Ngành:** IoT  
+- **Năm học:** Sinh viên năm 3 
+- **Trường:** (thêm tên trường của bạn)
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+---
+
+## 🛠️ Kỹ năng
+
+| Kỹ năng            | Mức độ        |
+|--------------------|--------------|
+| Java               | Cơ bản - Trung cấp |
+| Golang             | Đang học     |
+| Arduino / Embedded | Cơ bản       |
+| Linux              | Cơ bản       |
+| Git & GitHub       | Thành thạo   |
+| Networking (IPv4)  | Cơ bản       |
+
+---
+
+## 🚀 Dự án
+
+### 📡 Arduino LM35 Temperature Monitor
+- Đọc dữ liệu nhiệt độ từ cảm biến LM35  
+- Hiển thị trên Serial Monitor  
+- Áp dụng kiến thức Embedded cơ bản  
+
+---
+
+### 🧠 Hệ thống cảnh báo mất tích (IoT + Backend)
+- Nếu không xác thực trong 36–48h → gửi cảnh báo  
+- Sau 72h → gửi vị trí cho người thân/cơ quan chức năng  
+- Kết hợp IoT + Backend + Notification  
+
+---
+
+## 📈 Mục tiêu
+
+- Trở thành Backend Developer (Golang)  
+- Nâng cao kỹ năng DevOps & Cloud  
+- Xây dựng hệ thống IoT thực tế  
+
+---
+
+## 📫 Liên hệ
+
+- GitHub: https://github.com/caophong-git-IoT  
+- Email: caophong2025@gmail.com
