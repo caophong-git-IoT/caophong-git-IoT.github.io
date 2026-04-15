@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "phongcv.jpg"
   name             : "Cao Phong"
   pronouns         : # example: "she/her"  
   bio              : "Sinh vien IoT, quan tam he thong nhung va AIoT"
